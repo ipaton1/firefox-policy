@@ -387,6 +387,10 @@
 			"Value": false,
 			"Status": "user"
 		},
+		"browser.sessionstore.interval": {
+			"Value": 1800000,
+			"Status": "user"
+		},
 		"browser.shell.shortcutFavicons": {
 			"Value": false,
 			"Status": "user"
